@@ -1,0 +1,22 @@
+cross-validation_SVC_ACC: 0.9723634717064644
+cross-validation_SVC_std: 0.003243351045502073
+train_ACC_SVC: 0.9944484672942312
+train_AUC_SVC: 0.9944500743534471
+train_Precision_SVC: 0.9944486045219754
+train_Recall_SVC: 0.9944484672942312
+train_F1_score_SVC: 0.9944484779681658
+train_confusion_matrix_SVC:
+[[4087   22]
+ [  24 4153]]
+train_classification_report_SVC:
+{'precision': 0.9944486045219754, 'recall': 0.9944484672942312, 'f1-score': 0.9944484779681658, 'support': 8286.0}
+test_ACC_SVC: 0.9744208494208494
+test_AUC_SVC: 0.9741554274628313
+test_Precision_SVC: 0.9745083456966976
+test_Recall_SVC: 0.9744208494208494
+test_F1_score_SVC: 0.9744134196843355
+test_confusion_matrix_SVC:
+[[1051   19]
+ [  34  968]]
+test_classification_report_SVC:
+{'precision': 0.9745083456966976, 'recall': 0.9744208494208494, 'f1-score': 0.9744134196843355, 'support': 2072.0}

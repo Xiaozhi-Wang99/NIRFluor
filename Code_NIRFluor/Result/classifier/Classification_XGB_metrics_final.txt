@@ -1,0 +1,22 @@
+cross-validation_XGB_ACC: 0.9796043105500443
+cross-validation_XGB_std: 0.001721930098574252
+train_ACC_XGB: 1.0
+train_AUC_XGB: 1.0
+train_Precision_XGB: 1.0
+train_Recall_XGB: 1.0
+train_F1_score_XGB: 1.0
+train_confusion_matrix_XGB:
+[[4109    0]
+ [   0 4177]]
+train_classification_report_XGB:
+{'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 8286.0}
+test_ACC_XGB: 0.9821428571428571
+test_AUC_XGB: 0.9819491857406681
+test_Precision_XGB: 0.9821910809016313
+test_Recall_XGB: 0.9821428571428571
+test_F1_score_XGB: 0.9821392373473191
+test_confusion_matrix_XGB:
+[[1057   13]
+ [  24  978]]
+test_classification_report_XGB:
+{'precision': 0.9821910809016313, 'recall': 0.9821428571428571, 'f1-score': 0.9821392373473191, 'support': 2072.0}
