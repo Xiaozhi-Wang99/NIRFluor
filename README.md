@@ -1,6 +1,6 @@
-# NIRFluor: a deep learning platform for predicting optical properties of small molecule near-infrared fluorophores
+# NIRFluor: a deep learning platform for rapid screening of small molecule near-infrared fluorophores with desired optical properties
 ## About
-Small molecule near-infrared (NIR) fluorophores play a crucial role in disease diagnosis and early detection of various markers in living organisms. To accelerate their development and design, a deep learning platform, NIRFluor, using an experimental big database and SOTA deep learning method (MT-FinGCN) to predict six optical properties of a given NIR organic small molecule in different solvents with different ratios, including absorption wavelength, emission wavelength, stokes shift, extinction coefficient, photoluminescence quantum yield, and lifetime.
+Small molecule near-infrared (NIR) fluorophores play a crucial role in disease diagnosis and early detection of various markers in living organisms. To accelerate researchers in designing and rapid screening of novel NIR fluorophores with desired optical properties, we have established a free web platform, NIRFluor (https://nirfluor.aicbsc.com/home/index.html), which uses a large experimental database and state-of-the-art deep learning method (MT-FinGCN) to predict six optical properties of a given NIR organic small molecule in different solvents with different ratios, including absorption wavelength, emission wavelength, Stokes shift, extinction coefficient, quantum yield, and lifetime.
 
 -------------
 ![image](https://github.com/Xiaozhi-Wang99/NIRFluor/blob/main/image/Figure1.png)
